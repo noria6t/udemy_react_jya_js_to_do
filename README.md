@@ -1,2 +1,2 @@
-# udemy_react_jya_js_to_do
+# udemy_react_app
 Created with CodeSandbox
